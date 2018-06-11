@@ -6,4 +6,5 @@
  * and open the template in the editor.
  */
 echo "new file";
+echo "new files added and again made changes";
 ?>
