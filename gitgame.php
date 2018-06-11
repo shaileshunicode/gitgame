@@ -2,4 +2,4 @@
 
 echo "Purge U";
 
-?.
+?>
